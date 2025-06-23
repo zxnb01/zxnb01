@@ -6,6 +6,9 @@
 - 🔭 Currently developing: **NeerSense** - An IoT-based water quality and consumption tracking system. [GitHub Link](https://github.com/zxnb01/NeerSense)
 - 🌱 Diving Deep into: **AI Agents, Deployment Strategies, and IoT Ecosystems.**
 - ⚡ Fun Fact: **You'll find me either conquering LeetCode challenges or venturing into a new tech frontier! 🚀**
+  
+Check out my personal portfolio:  
+🌐 ([portfolio <3](https://shaikzainab.framer.website/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

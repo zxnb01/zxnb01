@@ -36,6 +36,10 @@ Check out my personal portfolio:
 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+## HacktoberFest 2025:
+
+[![An image of @zxnb01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zxnb01)](https://holopin.io/@zxnb01)
+
 ## 📊 GitHub Stats:
 ![zxnb01's Stats](https://github-readme-stats.vercel.app/api?username=zxnb01&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![zxnb01's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zxnb01&theme=vue-dark&hide_border=true)

@@ -3,12 +3,13 @@
 
 <p align="center">Passionate about crafting innovative solutions and exploring the cutting-edge of technology.</p>
 
-- 🔭 Currently developing: **NeerSense** - An IoT-based water quality and consumption tracking system. [GitHub Link](https://github.com/zxnb01/NeerSense)
-- 🌱 Diving Deep into: **AI Agents, Deployment Strategies, and IoT Ecosystems.**
+- 🔭 Currently developing: **Pyscape** - An EdTech Platform using multi-agent architectures [GitHub Link](https://github.com/zxnb01/pyscape)
+- 🌱 Diving Deep into: **AI Agents, MCPs, Deployment Strategies**
 - ⚡ Fun Fact: **You'll find me either conquering LeetCode challenges or venturing into a new tech frontier! 🚀**
   
 Check out my personal portfolio:  
-🌐 ([portfolio <3](https://shaikzainab.framer.website/))
+🌐 ([PORTFOLIO](https://shaik-zainab-portfolio.vercel.app/))
+([old portfolio](https://shaikzainab.framer.website/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,7 +21,8 @@ Check out my personal portfolio:
 
 **Languages:**
 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
+</br>
 
 **Frameworks & Libraries:**
 
@@ -35,9 +37,6 @@ Check out my personal portfolio:
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 GitHub Stats:
-
-<p>
-  <img style="width: 530px;" src="https://github-readme-stats.vercel.app/api?username=zxnb01&theme=darcula&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" /> <br>
-  <img style="width: 600px;" src="https://nirzak-streak-stats.vercel.app/?user=zxnb01&theme=darcula&hide_border=false" alt="GitHub Streak" /> <br>
-  <img style="width: 380px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxnb01&theme=darcula&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-</p>
+![zxnb01's Stats](https://github-readme-stats.vercel.app/api?username=zxnb01&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![zxnb01's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zxnb01&theme=vue-dark&hide_border=true)
+![zxnb01's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zxnb01&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
